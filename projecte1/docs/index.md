@@ -1,6 +1,11 @@
 # Institut Pedralbes
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+Els mòduls del cicle de DAW són:
+
+- M06: Desenvolupament d'entorn client
+- M07: Desenvolupament d'entorn web
+- M08: Desplegament 
+- M09: Interfícies 
 
 ## Commands
 
